@@ -1,2 +1,2 @@
-# ardoino
+# arduino
 
